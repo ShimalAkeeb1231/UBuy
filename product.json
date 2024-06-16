@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Black T-Shirt",
+    "productUrl": "images/tshirt.jpeg",
+    "description": "A stylish black t-shirt.",
+    "price": 25.0,
+    "quantity": 0,
+    "isLocal": true
+  },
+  {
+    "title": "Nike Cap",
+    "productUrl": "images/cap.jpeg",
+    "description": "A cool Nike cap.",
+    "price": 30.0,
+    "quantity": 0,
+    "isLocal": true
+  }
+]

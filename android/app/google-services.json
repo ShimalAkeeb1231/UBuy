@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797555561146",
+    "project_id": "ecommerce-49309",
+    "storage_bucket": "ecommerce-49309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797555561146:android:f0e95c3a74c927d320a883",
+        "android_client_info": {
+          "package_name": "com.UBuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNDVmjoEQN030Yh_X5PUiU-_2p8r1G9b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
